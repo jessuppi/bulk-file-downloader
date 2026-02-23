@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Bulk File Downloader",
   "version": "1.0.0",
-  "description": "Scan a page and download multiple files.",
+  "description": "Quickly scan any webpage and download multiple files at once with a single click using this lightweight tool for fast and efficient bulk downloads.",
   "permissions": [
     "downloads"
   ],
